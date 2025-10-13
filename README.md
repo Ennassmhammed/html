@@ -43,7 +43,7 @@ README.md # Ce fichier de documentation
  
 1. **Cloner le dépôt ou télécharger le projet** :
    ```bash
-   git clone https://votre-url-de-repository.git
+   git clone file:///C:/Users/MohammedENNASSIRI/OneDrive%20-%20Elan%20Formation/Bureau/html/index.html
 Ouvrir le fichier index.html dans un navigateur web ou un éditeur de code (ex: VS Code).
  
 📚 Concepts abordés
